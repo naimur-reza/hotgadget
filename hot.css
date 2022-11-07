@@ -1,0 +1,39 @@
+img, svg {
+    vertical-align: middle;
+    width: 100%;
+}
+.price{
+    color: crimson;
+}
+#nav{
+    border-radius: 10px;
+  
+}
+.caru{
+    background-color: rgb(245, 229, 244);
+}
+.image img{
+    width: 250px;
+   
+}
+#butt{
+ height: 75px;
+ width: 75px;
+}
+.box{
+    height: 220px;
+    width: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.first,.second{
+    padding: 20px;
+}
+.bag{
+    height: 220px;
+    width: 220px;
+    margin-top: ;
+}
